@@ -4,14 +4,14 @@
       <p class="text-lg font-semibold">Hi, hello! Welcome!</p>
       <p>This project is still very much under development.</p>
       <p>
-        If I've sent you credentials, you can
-        <router-link :to="{ name: 'Login' }" class="font-semibold">log in</router-link>, create projects, and play
-        around. Be advised there will very likely be breaking changes on a regular basis until an official launch.
+        Get in touch to request demo credentials if you would like to
+        <router-link :to="{ name: 'Login' }" class="font-semibold">log in</router-link>, create projects, add/edit
+        features, and play around with what I've got so far.
       </p>
       <p>
         You can also take a look at
-        <router-link to="/users/eras/" class="font-semibold">my example projects</router-link>
-        which are public.
+        <router-link to="/users/eras/" class="font-semibold">my example project</router-link>
+        which is public.
       </p>
       <p>
         I appreciate feedback, you can reach me at
